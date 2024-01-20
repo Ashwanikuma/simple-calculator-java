@@ -1,4 +1,4 @@
-<b>import java.util.Scanner;</b>
+<div style="color:blue">import java.util.Scanner;</div>
 
 public class perfectcalculator {
     public static void main(String args[]) {
